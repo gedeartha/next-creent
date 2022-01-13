@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-stroke {
+  font-size: 3rem;
+  -webkit-text-stroke-width: 6px;
+  -webkit-text-stroke-color: #ffffff;
+  -webkit-text-fill-color: #000000;
+  font-family: 'Lilita One', cursive;
+}
